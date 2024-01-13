@@ -8,7 +8,7 @@ TRANSPARENCY = 0.7
 FONT_COLOR = "white"
 # ==============================================
 # import modules
-#cirtyal keyboard 
+#cirtyal keyboard  
 try:
  import Tkinter
 except:
