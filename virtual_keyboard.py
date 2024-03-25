@@ -1,6 +1,6 @@
 # ========== Configurations ====================
 BUTTON_BACKGROUND = "black"
-MAIN_FRAME_BACKGROUND = "cornflowerblue"
+MAIN_FRAME_BACKGROUND = "cornflowerblue" 
 BUTTON_LOOK = "flat" # flat, groove, raised, ridge, solid, or sunken
 TOP_BAR_TITLE = "Python Virtual KeyBoard."
 TOPBAR_BACKGROUND = "skyblue"
