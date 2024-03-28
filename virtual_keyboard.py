@@ -13,7 +13,7 @@ try:
  import Tkinter
 except:
  import tkinter as Tkinter
-import pyautogui 
+import pyautogui  
 
   
 keys = [
