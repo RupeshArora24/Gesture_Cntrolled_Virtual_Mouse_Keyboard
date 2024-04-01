@@ -11,7 +11,7 @@ FONT_COLOR = "white"
 #cirtyal keyboard  
 try:
  import Tkinter
-except:
+except: 
  import tkinter as Tkinter
 import pyautogui  
 
