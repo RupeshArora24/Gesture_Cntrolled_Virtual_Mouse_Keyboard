@@ -1,4 +1,4 @@
-     # ========== Configurations ====================
+       # ========== Configurations ====================
 BUTTON_BACKGROUND = "black"
 MAIN_FRAME_BACKGROUND = "cornflowerblue" 
 BUTTON_LOOK = "flat" # flat, groove, raised, ridge, solid, or sunken
